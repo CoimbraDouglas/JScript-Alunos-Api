@@ -54,7 +54,7 @@ Edição (PUT)
 
 Captura do ID via interface
 
-Modal/prompt para novos valores
+Modal/prompt para novas inclusões
 
 Exclusão (DELETE)
 
