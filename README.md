@@ -1,20 +1,22 @@
 # ✍️ Projeto JScript para Alunos
 
 Esse projeto é uma interface web *responsiva* para gerenciamento acadêmico integrada à **API** alunos, utilizando práticas modernas de desenvolvimento front-end.
+
 📚 Disciplina: Arquitetura de Aplicacoes Web 👨‍🏫 Professor: Leonardo Vieira Guimarãe 🏫 Instituição: Centro Universitário Newton Paiva ✍️ Aluno: Douglas Coimbra Laass.
 
 ---
 
 ### 📚 Recursos Essenciais
 
-API Base: http://leoproti.com.br:8004/alunosLinks para um site externo.
+* API Base: http://leoproti.com.br:8004/alunosLinks para um site externo.
 
-view do api base: http://leoproti.com.br:8004/alunos-viewLinks para um site externo.
-Api de modelo: http://leoproti.com.br:8004/produtosLinks para um site externo.
-view do api modelo:http://leoproti.com.br:8004/produtos-viewLinks para um site externo.
+* view do api base: http://leoproti.com.br:8004/alunos-viewLinks para um site externo.
+* Api de modelo: http://leoproti.com.br:8004/produtosLinks para um site externo.
+* view do api modelo:http://leoproti.com.br:8004/produtos-viewLinks para um site externo.
 
 Documentação Interativa:
-Swagger UILinks para um site externo. (Consultar endpoints e modelos de dados)
+
+* Swagger UILinks para um site externo. (Consultar endpoints e modelos de dados)
 
 ---
 
