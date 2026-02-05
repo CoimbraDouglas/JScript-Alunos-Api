@@ -10,9 +10,11 @@ Esse projeto é uma interface web *responsiva* para gerenciamento acadêmico int
 
 * API Base: http://leoproti.com.br:8004/alunosLinks para um site externo.
 
-* view do api base: http://leoproti.com.br:8004/alunos-viewLinks para um site externo.
+* View do api base: http://leoproti.com.br:8004/alunos-viewLinks para um site externo.
+  
 * Api de modelo: http://leoproti.com.br:8004/produtosLinks para um site externo.
-* view do api modelo:http://leoproti.com.br:8004/produtos-viewLinks para um site externo.
+  
+* View do api modelo:http://leoproti.com.br:8004/produtos-viewLinks para um site externo.
 
 Documentação Interativa:
 
