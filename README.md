@@ -2,7 +2,10 @@
 
 Esse projeto é uma interface web *responsiva* para gerenciamento acadêmico integrada à **API** alunos, utilizando práticas modernas de desenvolvimento front-end.
 
-📚 Disciplina: Arquitetura de Aplicacoes Web 👨‍🏫 Professor: Leonardo Vieira Guimarãe 🏫 Instituição: Centro Universitário Newton Paiva ✍️ Aluno: Douglas Coimbra Laass.
+📚 **Disciplina:** Arquitetura de Aplicacoes Web 
+👨‍🏫 **Professor:** Leonardo Vieira Guimarãe 
+🏫 **Instituição:** Centro Universitário Newton Paiva. 
+✍️ **Aluno:** Douglas Coimbra Laass.
 
 ---
 
@@ -23,6 +26,7 @@ Documentação Interativa:
 ---
 
 ### 🗂 Estrutura do Projeto
+
 ```
 /Pratica
 ├── /css
